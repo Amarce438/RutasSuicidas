@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681104309950",
+    "project_id": "rutitas-fff66",
+    "storage_bucket": "rutitas-fff66.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681104309950:android:a47e2970e8823fbc1228ef",
+        "android_client_info": {
+          "package_name": "com.rutitas2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFY2nUQXtmz8IRu1W-CIgOxT36fuYsbcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
